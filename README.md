@@ -20,7 +20,7 @@ https://codelabs-preview.appspot.com/?file_id=1WyL7lPodRg0nSyOGtHt-9u56J0Ni0m47S
 
 ## About
 
-The aim of this assignment is creating an API that anonymizes the data through masking using AWS comprehend and step functions, build a sentiment analysis model and generate sentiments using Albert, then using FAST API to serve the model, dockerize the API and then building a reference app in Streamlit. Demonstrating test cases using Pytest and performing load testing using Locust.
+The aim is creating an API that anonymizes the data through masking using AWS comprehend and step functions, build a sentiment analysis model and generate sentiments using Albert, then using FAST API to serve the model, dockerize the API and then building a reference app in Streamlit. Demonstrating test cases using Pytest and performing load testing using Locust.
 
 
 ## Dataset
