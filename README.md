@@ -1,18 +1,4 @@
 ## Big Data Systems and Int Analytics
- 
-## Assignment 4
-
-#### Team Information
-
-| NAME              |     NUID        |
-|------------------ |-----------------|
-|   Tanvi Gurav     |   001306848     |
-|   Keerti Ojha     |   001050173     |
-| Priyanka Malpekar |   001302741     |
- 
-
-**Submission Date**: 16th April'21
-
 
 ## CLAAT Link
 
